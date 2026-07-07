@@ -10,6 +10,7 @@ EMAIL = "22f2000105@ds.study.iitm.ac.in"
 
 # Allowed Origins
 origins = [
+    "https://app-mb0kk4.example.com",
     "https://exam.sanand.workers.dev",
 ]
 
